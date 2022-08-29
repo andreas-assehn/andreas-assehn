@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Andreas, Full-Stack Developer from Bornholm :desert_island:, Denmark 🇩🇰
+I'm Andreas, Full-Stack Developer from :desert_island: Bornholm, 🇩🇰 Denmark.
 
 <!--
 **andreas-assehn/andreas-assehn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
