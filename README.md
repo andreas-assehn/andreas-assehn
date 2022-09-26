@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Andreas, Full-Stack Developer from :desert_island: Bornholm, 🇩🇰 Denmark.
+I'm Andreas, Full-Stack Developer living at :desert_island: Bornholm, 🇩🇰 Denmark.
 
 
 <!--
